@@ -1,5 +1,0 @@
-streamlit>=1.32.0
-# Descomenta y agrega las demás librerías que utilices en tu entorno:
-# firebase-admin
-# google-cloud-firestore
-# PyPDF2
